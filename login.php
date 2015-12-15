@@ -33,13 +33,34 @@
         <div class="site-inner">
         	<div class="content-sidebar-wrap">
             	<main class="content" role="main" itemprop="mainContentOfPage" itemscope="itemscope" itemtype="http://schema.org/Blog">
+                
+                
+                
                 	<div class="home-odd home-section-5 widget-area" style="background-position: 50% -7.83333px;">
                     	<div class="wrap">
+                        
+                        <form name="Login" method="POST">
+            <table >
+            <tr>
+                <td width="100px">Usuario:</td>
+                <td><input type="text" name="usuario" size="20"></td>
+            </tr>
+            <tr>
+                <td width="100px">Password:</td>
+                <td><input type="password" name="password" size="20"></td>
+            </tr>
+                <td colspan="2" align="center"><input type="submit" value="Ingresar"></td>
+                </table>
+            </form>
+                        
                         	<section id="text-9" class="widget widget_text">
                             	<div class="widget-wrap">
-                                	<h4 class="widget-title widgettitle">Descubrí Website</h4>
+                                	
+                                    
+
+ 
 									<div class="textwidget">
-                                    	<a class="button medium white" href="http://redminka.com/publicaciones">Publicaciones</a>						 										<a> </a>
+                                    	
                                     </div>
                                     <a></a>
 								</div>
